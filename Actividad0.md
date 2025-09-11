@@ -1,4 +1,1 @@
-# Programacion-basica-302-I
-## Jimena Luna Gozalez
-## Fecha de nacimiento 17/11/2009
-## Portafolio e codigos de C++
+<img width="298" height="128" alt="image" src="https://github.com/user-attachments/assets/8b5510bd-57cc-4b38-b5e5-bbb2c31c38aa" />
